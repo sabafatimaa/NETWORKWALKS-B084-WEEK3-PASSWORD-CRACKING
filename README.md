@@ -53,19 +53,19 @@ Crack the password of a password-protected PDF using **John the Ripper (JTR)** a
 
 ##### 03 — Johnny Settings
 
-![Johnny Settings](johnny-settings.png)
+![Johnny Settings](Images/johnny.png)
 
 ##### 04 — Hash Extracted
 
-![Hash Extracted](hash-extracted.png)
+![Hash Extracted](Images/onlinehashcrack.png)
 
 ##### 06 — Password Cracked
 
-![Password Cracked](password-cracked.png)
+![Password Cracked](Images/password.png)
 
 ##### 08 — After Entering Password
 
-![unlocked pdf](unlockedpdf.png)
+![unlocked pdf](Images/PM1.png)
 
 ---
 
@@ -101,19 +101,15 @@ Crack the password of a password-protected PDF using **Networkwalks online secur
 
 ##### 01 — Hash Calculator
 
-![Hash Calculator](hash-calculator.png)
+![Hash Calculator](Images/hashcalculator.png)
 
 ##### 02 — Password Cracker
 
-![Password Cracker](password-cracker.png)
-
-##### 04 — Password Cracked
-
-![Password Cracked](password-cracked1.png)
+![Password Cracker](Images/passwordcracker.png)
 
 ##### 05 — Unlocked pdf
 
-![Unlocked pdf](unlockedpdf1.png)
+![Unlocked pdf](Images/PM2.png)
 
 ---
 
