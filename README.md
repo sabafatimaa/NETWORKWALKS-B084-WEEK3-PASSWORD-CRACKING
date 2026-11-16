@@ -1,10 +1,4 @@
 # Password Cracking 
-
-
->  Hands-on password cracking labs completed during **Week 3** of my Cybersecurity Internship at **NETWORKWALKS**.
-
----
-
 ## Overview
 
 This repository contains my **Week 3 Cybersecurity Internship labs** focused on password cracking, hash analysis, and password security.
@@ -51,19 +45,19 @@ Crack the password of a password-protected PDF using **John the Ripper (JTR)** a
 
 #### Screenshots
 
-##### 03 — Johnny Settings
+##### — Johnny Settings
 
 ![Johnny Settings](Images/johnny.png)
 
-##### 04 — Hash Extracted
+##### — Hash Extracted
 
 ![Hash Extracted](Images/onlinehashcrack.png)
 
-##### 06 — Password Cracked
+##### — Password Cracked
 
 ![Password Cracked](Images/password.png)
 
-##### 08 — After Entering Password
+##### — After Entering Password
 
 ![unlocked pdf](Images/PM1.png)
 
@@ -99,15 +93,15 @@ Crack the password of a password-protected PDF using **Networkwalks online secur
 
 #### Screenshots
 
-##### 01 — Hash Calculator
+##### — Hash Calculator
 
 ![Hash Calculator](Images/hashcalculator.png)
 
-##### 02 — Password Cracker
+##### — Password Cracker
 
 ![Password Cracker](Images/passwordcracker.png)
 
-##### 05 — Unlocked pdf
+##### — Unlocked pdf
 
 ![Unlocked pdf](Images/PM2.png)
 
@@ -165,25 +159,6 @@ Password-cracking techniques are useful during authorized cybersecurity assessme
 - Understanding attacker techniques
 
 The purpose of ethical password auditing is to identify weaknesses **before malicious attackers can exploit them**.
-
----
-
-## Tools & Resources
-
-| Tool | Purpose | Link |
-|---|---|---|
-| John the Ripper | Password auditing and cracking |
-| Johnny GUI | GUI for John the Ripper | 
-| Networkwalks | Cybersecurity training/tools | 
-
----
-
-## Lab Summary
-
-| Lab | Tool | Attack Type | Result |
-|---|---|---|---|
-| W3-PM1 | JTR + Johnny | `password1` |
-| W3-PM2 | NW Tools |`1qaz2wsx` |
 
 ---
 
